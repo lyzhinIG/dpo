@@ -60,7 +60,7 @@ void setup() {
         USE_SERIAL.flush();
         delay(1000);
     }
-
+	// wifiMulti.addAP("SSID", "PASSWORD");
     wifiMulti.addAP("iot_lab3", "iot_lab3");
 
 }
