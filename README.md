@@ -10,3 +10,4 @@
 ## Дополнительно
 - [Объединение строк на С](src/concatenate.c)
 - Сервис [initialstate](https://initialstate.com)
+- [Презентация практикум](media/IoT-ESP32.pdf)
